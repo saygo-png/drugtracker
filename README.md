@@ -1,5 +1,5 @@
 # drugtracker
-Tiny terminal app for tracking when you last took a pill written in bash script
+Tiny terminal app for tracking when you last took a pill written in bash
 ## What it does
 It shows you a list of 5 last entries, and how much time passed since the last one in hours and minutes.
 Then it asks if you would like to create a new entry, if so, it asks for it's name
