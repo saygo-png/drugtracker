@@ -1,3 +1,5 @@
+# Archived in favour of https://github.com/saygo-png/drugTracker2
+
 # drugtracker
 Tiny terminal app for tracking when you last took a pill written in bash
 ## What it does
